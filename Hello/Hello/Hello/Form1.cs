@@ -19,7 +19,7 @@ namespace Hello
 
         private void pierwszy_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("To pierwszy projekt w gicie");
+            MessageBox.Show("To pierwszy projekt w gicie, jak ktoś z was dopisze do tego linijkę to będzię pięknie:");
         }
     }
 }
